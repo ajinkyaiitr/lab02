@@ -1,0 +1,4 @@
+Object(args:String[Array])
+{
+ println("Hello,World!");
+}
